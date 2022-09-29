@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/4b/55/80/4b5580d373c276359bcbd2c263922982.jpg)](https://github.com/Chimdindu-dev)
-<h1 align="center">Hi 👋, I'm Chimdindu Chukwuka</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h1 align="left">Hi :blush:, I'm Chimdindu Chukwuka</h1>
+<h3 align="right">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=">
 
 
