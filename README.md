@@ -3,9 +3,8 @@
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chimdindu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chimdindu-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimdindu-dev" alt="chimdindu-dev" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chimdindu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chimdindu-dev" /> </p>
 
 - 🌱 I’m currently learning **C**
 
@@ -29,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chimdindu-dev&show_icons=true&locale=en" alt="chimdindu-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chimdindu-dev&" alt="chimdindu-dev" /></p>
-
