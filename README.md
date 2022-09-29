@@ -28,6 +28,6 @@
 
 ![Chimdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimdindu-dev&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimdindu-dev&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimdindu-dev&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/Chimdindu-dev/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chimdindu-dev&theme=tokyonight)](https://github.com/Chimdindu-dev/github-profile-trophy)
