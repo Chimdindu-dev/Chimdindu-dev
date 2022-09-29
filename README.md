@@ -1,7 +1,7 @@
 [![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)]()
 <h1 align="center">Hi 👋, I'm Chimdindu Chukwuka</h1>
 <h3 align="center">A passionate Software developer</h3>
-<img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=">
+<img align="right" alt="Coding" width="200" src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimdindu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chimdindu-dev" /> </p>
 
